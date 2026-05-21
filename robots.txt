@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://miikajuhala.github.io/yamaha-mt09-rental/sitemap.xml
