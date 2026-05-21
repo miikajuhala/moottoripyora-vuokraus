@@ -238,6 +238,10 @@ p {
   width: 100%;
 }
 
+.panel .button + .button {
+  margin-top: 10px;
+}
+
 .quick-facts {
   background: var(--ink);
 }

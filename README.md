@@ -9,7 +9,7 @@ Static GitHub Pages site for renting a Yamaha MT-09 ABS 2015 motorcycle in the H
 - `pictures.html` - photo gallery
 - `terms.html` - rental terms
 - `faq.html` - frequently asked questions with FAQ structured data
-- `contact.html` - contact and Hygglo reservation link
+- `contact.html` - contact, direct rental wording, and Hygglo reservation link
 
 ## Publish on GitHub Pages
 
@@ -33,4 +33,4 @@ If the GitHub username, repository name, or custom domain changes, update that U
 
 - Replace the WhatsApp placeholder in `contact.html` if you want WhatsApp contact.
 - Adjust the pickup location text if you want to show a more specific city.
-- Confirm prices, insurance wording, deductible details, and Hygglo terms before publishing.
+- Confirm prices, direct rental deductible wording, insurance wording, and Hygglo terms before publishing.
